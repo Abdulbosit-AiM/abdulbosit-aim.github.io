@@ -11,3 +11,6 @@ header {
     justify-content: center;
     flex-direction: column;
 }
+h1 {
+    font-size: 3rem;
+}
