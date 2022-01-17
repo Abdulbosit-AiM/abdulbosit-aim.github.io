@@ -6,7 +6,7 @@ heading.onclick = () => { hide(heading) }
 heading2.onclick = () => { hide(heading2) }
 
 function hide(elem){
-    elem.onclick = () => {elem.style.visibility = 'hidden'}
+    elem.style.visibility = 'hidden'
 }
 
 
